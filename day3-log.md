@@ -1,4 +1,4 @@
-##Day 3- 7/2/26
+## Day 3- 7/2/26
 
 What I did: Started *R for Data Science*, followed book examples on RStudio, did practice exercises.
 
