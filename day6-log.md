@@ -1,4 +1,4 @@
-##Day 6- 7/5/26
+## Day 6- 7/5/26
 
 What I did: 2 python lessons, retook notes going through first two chapters I've read in *R for Data Science*
 
