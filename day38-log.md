@@ -1,4 +1,4 @@
-## Day38- 8/6/26
+## Day 38- 8/6/26
 
 What I did: Created first Project 1 graph— GDP per capita vs life expectancy scatter plot
 
